@@ -9,9 +9,11 @@ In this repository I have implemented and used for data analysis such machine le
   5) Neural network
   6) Principal component analysis
   
+  
+<h3>About data</h3>
+
 I use the data from https://www.kaggle.com/shivam2503/diamonds/data
 
-About this data
 A data frame with 53940 rows and 10 variables:
   - price price in US dollars (\$326--\$18,823)
   - carat weight of the diamond (0.2--5.01)
